@@ -6,14 +6,14 @@ autor: José Linhares Bezerra.
 
 Robô de inspeção/explorador utilizando ESP32-CAM
 
-Robô de inspeção que também pode ser usado de forma lúdica que foi desenvolvido como trabalho de conlusão de curso TCC
+Robô de inspeção que também pode ser usado de forma lúdica que foi desenvolvido como trabalho de conclusão de curso TCC
 do meu curso de Técnico em Eletrotécnica no Centro de Profissionalização e Educação Técnica - CPET onde obtive nota máxima.
 
 
-
+Robô montado
 ![Robo King](https://github.com/LinharesKing/robo_king_esp32-cam/assets/157310295/acfdd7f2-6500-42f7-a306-3c3a454d2b9c)
 
-Páguina web e imagem do robo em campo
+Páguina web e imagem do robô em campo
 ![Pagina web lado a lado com o robô](https://github.com/LinharesKing/robo_king_esp32-cam/assets/157310295/a51c56a8-2ca6-4dec-ab44-ab2cfbc5ccee)
 
 
