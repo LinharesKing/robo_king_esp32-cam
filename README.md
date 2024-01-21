@@ -7,7 +7,7 @@ autor: José Linhares Bezerra.
 Robô de inspeção/explorador utilizando ESP32-CAM
 
 Robô de inspeção que também pode ser usado de forma lúdica que foi desenvolvido como trabalho de conlusão de curso TCC
-do meu curso de Técnico em Eletrotécnica no Centro de Profissionalização e Educação Técnica - CPET
+do meu curso de Técnico em Eletrotécnica no Centro de Profissionalização e Educação Técnica - CPET onde obtive nota máxima.
 
 
 
